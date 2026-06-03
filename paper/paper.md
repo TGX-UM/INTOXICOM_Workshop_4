@@ -7,36 +7,36 @@ tags:
   - learning path
   - education
 authors:
-  - name: Marvin Martens
+  - name: Marvin&nbsp;Martens
     affiliation: 1
     orcid: 0000-0003-2230-0840
-  - name: Sara Morsy
+  - name: Sara&nbsp;Morsy
     affiliation: 2
     orcid: 
-  - name: Meike Bünger
+  - name: Meike&nbsp;Bünger
     affiliation: 3
     orcid: 0009-0002-7664-0058
-  - name: Scott Glaberman
+  - name: Scott&nbsp;Glaberman
     affiliation: 6
     orcid: 0000-0003-0594-4732
-  - name: Bob Lee
+  - name: Bob&nbsp;Lee
     affiliation: 6
-  - name: Susana Loureiro
+  - name: Susana&nbsp;Loureiro
     affiliation: 5
     orcid: 0000-0002-5393-9623
-  - name: Gavin Lloyd
+  - name: Gavin&nbsp;Lloyd
     affiliation: 6
     orcid: 0000-0001-7989-6695
-  - name: Ralf Weber
+  - name: Ralf&nbsp;Weber
     affiliation: 6
     orcid: 0000-0002-8796-4771
-  - name: Tim  Williams
+  - name: Tim&nbsp;Williams
     affiliation: 6
     orcid: 0000-0002-5857-3851
-  - name: Egon Willighagen
+  - name: Egon&nbsp;Willighagen
     affiliation: 1
     orcid: 0000-0001-7542-0286
-  - name: Iseult Lynch
+  - name: Iseult&nbsp;Lynch
     affiliation: 6
     orcid: 0000-0003-4250-4584
 affiliations:
