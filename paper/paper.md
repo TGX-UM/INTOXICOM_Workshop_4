@@ -9,9 +9,52 @@ tags:
 authors:
   - name: Marvin Martens
     affiliation: 1
+    orcid: 0000-0003-2230-0840
+  - name: Sara Morsy
+    affiliation: 2
+    orcid: 
+  - name: Meike Bünger
+    affiliation: 3
+    orcid: 0009-0002-7664-0058
+  - name: Scott Glaberman
+    affiliation: 6
+    orcid: 0000-0003-0594-4732
+  - name: Bob Lee
+    affiliation: 6
+  - name: Susana Loureiro
+    affiliation: 5
+    orcid: 0000-0002-5393-9623
+  - name: Gavin Lloyd
+    affiliation: 6
+    orcid: 0000-0001-7989-6695
+  - name: Ralf Weber
+    affiliation: 6
+    orcid: 0000-0002-8796-4771
+  - name: Tim  Williams
+    affiliation: 6
+    orcid: 0000-0002-5857-3851
+  - name: Egon Willighagen
+    affiliation: 1
+    orcid: 0000-0001-7542-0286
+  - name: Iseult Lynch
+    affiliation: 6
+    orcid: 0000-0003-4250-4584
 affiliations:
-  - name: Dept of Bioinformatics - BiGCaT, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
     index: 1
+    ror: 02jz4aj89
+  - name: University of Bradford, Bradford, UK
+    index: 2
+    ror: 00vs8d940
+  - name: Data Team, Health Research Infrastructure, The Netherlands         
+    index: 3
+    ror: 02xcmp898
+  - name: University of Aveiro, Aveiro, PT
+    index: 5
+    ror: 00nt41z93
+  - name: University of Birmingham, Birmingham, UK
+    index: 6
+    ror: 03angcq70
 date: 7 November 2022
 cito-bibliography: paper.bib
 event: INTOXICOM
