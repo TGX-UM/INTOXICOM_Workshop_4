@@ -28,83 +28,107 @@ authors_short: Martens \emph{et al.}
 
 # Introduction
 
-As part of the INTOXICOM Implementation Study for the ELIXIR Toxicology Community a series of workshops is organized. Here, we here report on the Xth workshop...
+The fourth workshop of the INTOXICOM Implementation Study, titled “Registration of Project Courses in ELIXIR
+TeSS and Conversion of Open Educational Resources into Toxicology Curricula”, was held on 24–25 June 2025
+at the University of Birmingham, UK. An introductory webinar on 6 June 2025 prepared participants by
+introducing workshop objectives and gathering initial educational resources.
 
-# Formatting
+This workshop is part of INTOXICOM’s effort to make toxicology educational resources FAIR (Findable,
+Accessible, Interoperable, and Reusable)~\cite{FAIR} and to establish a sustainable training ecosystem
+within the ELIXIR infrastructure. The meeting brought together toxicology and bioinformatics trainers,
+educators, curriculum developers, and FAIR training experts to collaboratively design structured curricula
+in the form of ELIXIR Learning Paths.
 
-This document use Markdown and you can look at [this tutorial](https://www.markdowntutorial.com/).
+# Workshop Objectives and Approach
 
-## Subsection level 2
+The workshop aimed to:
 
-Please keep sections to a maximum of only two levels.
+* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/))
+* Introduce FAIR training principles, metadata annotation, and Bioschemas for automated population of resources
+* Build shared expertise on developing learning paths, a structured curriculum concept within ELIXIR
+* Co-design toxicology-specific learning paths that address gaps in current training and support modern approaches to chemical and nanomaterial safety assessment
 
-## Tables and figures
+Hands-on sessions provided participants with practical experience design, develop, 
+populate learning paths, and about governance and sustainability within TeSS.
 
-Tables can be added in the following way, though alternatives are possible:
+# Understanding Learning Paths
 
-Table: Note that table caption is automatically numbered and should be
-given before the table itself.
+Participants gained a shared understanding of ELIXIR Learning Paths, which guide learners through a sequence of training materials from foundational to advanced levels ([https://tess.elixir-europe.org/about/learning_paths](https://tess.elixir-europe.org/about/learning_paths)). Through guided exercises, attendees explored how to structure toxicology curricula, link resources, and annotate them with standardized metadata.
 
-| Header 1 | Header 2 |
-| -------- | -------- |
-| item 1 | item 2 |
-| item 3 | item 4 |
+Discussions highlighted key requirements for FAIR toxicology training, including improved ontology coverage, mechanisms for maintaining up-to-date curricula, and strategies for automated population of TeSS resources using Bioschemas ([https://bioschemas.org/](https://bioschemas.org/)).
 
-A figure is added with:
+# Proposed Toxicology Learning Paths
 
-![Caption for BioHackrXiv logo figure](./biohackrxiv.png)
+Four thematic learning paths were conceptualized during breakout sessions:
 
-# Other main section on your manuscript level 1
+* New Approach Methodologies (NAMs) – A curriculum encompassing modern, animal-free methods integrating in vitro, omics, molecular AOPs, and computational tools for regulatory toxicology
+* FAIR AOP Development – Training for constructing and curating Adverse Outcome Pathways with semantic web technologies and FAIR principles
+* FAIR Nanotoxicology Data – Modules for harmonizing nanosafety datasets with standardized metadata and interoperability practices
+* In Silico Hazard Prediction – Computational training covering QSARs, molecular docking, and network-based modeling for chemical and nanomaterial hazard assessment
 
-Lists can be added with:
+# Target Audience for Toxicology Learning Paths
 
-1. Item 1
-2. Item 2
+The learning paths developed during Workshop 4 are designed to address the training needs of early-career researchers entering the field of modern toxicology. The primary audience consists of individuals with a Bachelor’s degree in biology, chemistry, pharmacy, biochemistry, molecular biosciences, medical biology, or veterinary medicine, and ideally a Master’s degree in one of these disciplines or in toxicology.
 
-# Citation Typing Ontology annotation
+These curricula particularly support early-stage researchers, such as PhD students, who require structured training to rapidly build expertise in emerging toxicology approaches. The paths are also suitable for postgraduates and professionals transitioning into computational toxicology, nanotoxicology, or regulatory science who need to understand mechanistic safety assessment and FAIR data practices.
 
-You can use [CiTO](http://purl.org/spar/cito/2018-02-12) annotations, as explained in [this BioHackathon Europe 2021 write up](https://raw.githubusercontent.com/biohackrxiv/bhxiv-metadata/main/doc/elixir_biohackathon2021/paper.md) and [this CiTO Pilot](https://www.biomedcentral.com/collections/cito).
-Using this template, you can cite an article and indicate _why_ you cite that article, for instance DisGeNET-RDF [@citesAsAuthority:Queralt2016].
+All four learning paths—New Approach Methodologies (NAMs), FAIR AOP Development, FAIR Nanotoxicology Data, and In Silico Hazard Prediction—share this baseline audience. Individual paths can be tailored to specific interests and backgrounds, for example by focusing more heavily on laboratory methods, data science, or regulatory applications.
 
-The syntax in Markdown is as follows: a single intention annotation looks like
-`[@usesMethodIn:Krewinkel2017]`; two or more intentions are separated
-with colons, like `[@extends:discusses:Nielsen2017Scholia]`. When you cite two
-different articles, you use this syntax: `[@citesAsDataSource:Ammar2022ETL; @citesAsDataSource:Arend2022BioHackEU22]`.
+# NAMs Learning Path: First Prototype
 
-Possible CiTO typing annotation include:
+The workshop developed a detailed draft of the NAMs learning path as a pilot for structured toxicology curricula within ELIXIR TeSS. This prototype outlines a modular program introducing XXXX <!-- [add module/block groups] -->
+for using and integrating NAM data in risk assessment frameworks.
 
-* citesAsDataSource: when you point the reader to a source of data which may explain a claim
-* usesDataFrom: when you reuse somehow (and elaborate on) the data in the cited entity
-* usesMethodIn
-* citesAsAuthority
-* citesAsEvidence
-* citesAsPotentialSolution
-* citesAsRecommendedReading
-* citesAsRelated
-* citesAsSourceDocument
-* citesForInformation
-* confirms
-* documents
-* providesDataFor
-* obtainsSupportFrom
-* discusses
-* extends
-* agreesWith
-* disagreesWith
-* updates
-* citation: generic citation
+The learning path is designed for participants with a Bachelor’s degree in biology, chemistry, pharmacy, biochemistry, molecular biosciences, medical biology, or veterinary medicine, and ideally a Master’s degree in one of these disciplines or in toxicology. It particularly targets early-stage researchers (e.g., beginning a PhD project) who need to quickly acquire a mechanistic understanding of modern, animal-free safety assessment approaches.
 
+The NAMs path builds on existing courses and modules, such as those in the University of Birmingham’s MSc Toxicology program and training developed within VHP4Safety, ensuring alignment with established academic and project-based offerings. 
 
-# Results
+<!-- [content of learning path] -->
 
+<!-- copy in picture from https://docs.google.com/document/d/1AOiJBE54i9A5_Fs2oDgqCyDSsoZD1tDx3BFbsBwyS9s/edit?tab=t.0 >
 
-# Discussion
+<!-- 
 
-...
+https://docs.google.com/presentation/d/1LNCn9oKnSfK3oeh7_1h3xKWyfrrMswRRJ-4v-tXy_r4/edit?usp=sharing slide 8
 
-## Acknowledgements
+[add table of spreadsheet where courses/materials are linked to each of the boxes]
 
-...
+https://docs.google.com/spreadsheets/d/1KOkflK9F_oowiI2ZC8WHSi3uKxcprbcS06CDmBnGfXM/edit?usp=sharing 
+
+-->
+
+# Ontology Development for FAIR Training Metadata
+
+Another outcome of the workshop was the identification of gaps in toxicology-specific ontology terms used for annotating training resources in TeSS. Without these terms, toxicology courses and materials cannot be consistently described or discovered across the ELIXIR ecosystem.
+
+Participants compiled a list of proposed additions or refinements to the EDAM ontology, including high-level terms such as Toxicology, and specialized subfields including Medical Toxicology, Ecotoxicology, Forensic Toxicology, and Environmental Toxicology. For each term, draft definitions were prepared, relationships to existing ontology terms were mapped, and links to related ontologies (e.g., OMIT, NCIT) were identified.
+
+This work will be submitted to the EDAM ontology maintainers for inclusion in future releases. Expanding EDAM with toxicology-specific terms will allow:
+
+* Precise tagging of training materials in TeSS, improving discoverability
+* Automated assembly of learning paths, since resources can be filtered and grouped by ontology tags (e.g., all resources related to NAMs or regulatory toxicology)
+* Better integration with FAIR data and tool registries (e.g., bio.tools, FAIRsharing), enabling cross-linking of courses, datasets, and software relevant to toxicology
+
+The compiled list of terms, definitions, and ontology links is included as
+an Appendix <!-- TODO -->
+to this report.
+
+# Towards Automated Population of Resources
+
+A key recommendation from the workshop is the automation of resource population into TeSS. The group discussed implementing Bioschemas markup on external training repositories (e.g., PARC Learning Materials) to allow automated harvesting by TeSS. This approach would ensure sustainable growth of registered resources and reduce manual effort for course providers.
+
+Ontology improvements were also identified as necessary for toxicology-specific training annotation. The proposals to extend the EDAM ontology ([https://edamontology.org/](https://edamontology.org/)) will enrich keyword coverage and enable accurate classification of toxicology educational resources.
+
+# Path Initiation and Community Uptake
+
+Besides the NAMs path, the workshop initiated schematic outlines for three additional learning paths: “FAIR AOP development”, “FAIR nanotoxicology data”, and “In silico (chemical and nanomaterial) hazard prediction”. These will be further refined and are intended to be picked up by educators within the ELIXIR Toxicology Community. The workshop established the
+Toxicology Community as a future content provider in TeSS <!-- Marvin: please confirm -->
+to initiate a coordinated curation process and community-driven maintenance of these learning paths.
+
+# Conclusions and Future Directions
+Workshop 4 successfully built a shared understanding of FAIR training principles and delivered an initial learning path prototype and a set of draft learning paths for the ELIXIR Toxicology Community to adopt. The NAMs learning path prototype is a concrete output of the workshop and serves as an example for further development of toxicology education pathways.
+
+Next steps include finalizing the NAMs path with broader stakeholder review, expanding and linearizing the other three proposed paths, contributing new ontology terms, and initiating automated resource harvesting via Bioschemas. 
 
 ## Funding
 
