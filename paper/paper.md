@@ -72,7 +72,8 @@ authors_short: Martens \emph{et al.}
 
 # Introduction
 
-The fourth workshop of the INTOXICOM Implementation Study, titled “Registration of Project Courses in ELIXIR
+The fourth workshop of the [INTOXICOM Implementation Study](https://index.biohackrxiv.org/tag/INTOXICOM),
+titled “Registration of Project Courses in ELIXIR
 TeSS and Conversion of Open Educational Resources into Toxicology Curricula”, was held on 24–25 June 2025
 at the University of Birmingham, UK. An introductory webinar on 6 June 2025 prepared participants by
 introducing workshop objectives and gathering initial educational resources.
@@ -87,8 +88,8 @@ in the form of ELIXIR Learning Paths.
 
 The workshop aimed to:
 
-* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/))
-* Introduce FAIR training principles, metadata annotation, and Bioschemas for automated population of resources
+* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/)) [@Rioualen2024Synergising]
+* Introduce FAIR training principles, metadata annotation, and Bioschemas [@Gray2017Bioschemas] for automated population of resources
 * Build shared expertise on developing learning paths, a structured curriculum concept within ELIXIR
 * Co-design toxicology-specific learning paths that address gaps in current training and support modern approaches to chemical and nanomaterial safety assessment
 
@@ -125,7 +126,7 @@ for using and integrating NAM data in risk assessment frameworks.
 
 The learning path is designed for participants with a Bachelor’s degree in biology, chemistry, pharmacy, biochemistry, molecular biosciences, medical biology, or veterinary medicine, and ideally a Master’s degree in one of these disciplines or in toxicology. It particularly targets early-stage researchers (e.g., beginning a PhD project) who need to quickly acquire a mechanistic understanding of modern, animal-free safety assessment approaches.
 
-The NAMs path builds on existing courses and modules, such as those in the University of Birmingham’s MSc Toxicology program and training developed within VHP4Safety, ensuring alignment with established academic and project-based offerings. 
+The NAMs path builds on existing courses and modules, such as those in the University of [Birmingham’s MSc Toxicology](https://www.birmingham.ac.uk/study/postgraduate/subjects/biosciences-courses/toxicology-msc) program and training developed within VHP4Safety, ensuring alignment with established academic and project-based offerings. 
 
 <!-- [content of learning path] -->
 
@@ -145,7 +146,7 @@ https://docs.google.com/spreadsheets/d/1KOkflK9F_oowiI2ZC8WHSi3uKxcprbcS06CDmBnG
 
 Another outcome of the workshop was the identification of gaps in toxicology-specific ontology terms used for annotating training resources in TeSS. Without these terms, toxicology courses and materials cannot be consistently described or discovered across the ELIXIR ecosystem.
 
-Participants compiled a list of proposed additions or refinements to the EDAM ontology, including high-level terms such as Toxicology, and specialized subfields including Medical Toxicology, Ecotoxicology, Forensic Toxicology, and Environmental Toxicology. For each term, draft definitions were prepared, relationships to existing ontology terms were mapped, and links to related ontologies (e.g., OMIT, NCIT) were identified.
+Participants compiled a list of proposed additions or refinements to the EDAM ontology [@Ison2013EDAM], including high-level terms such as Toxicology, and specialized subfields including Medical Toxicology, Ecotoxicology, Forensic Toxicology, and Environmental Toxicology. For each term, draft definitions were prepared, relationships to existing ontology terms were mapped, and links to related ontologies (e.g., OMIT, NCIT) were identified.
 
 This work will be submitted to the EDAM ontology maintainers for inclusion in future releases. Expanding EDAM with toxicology-specific terms will allow:
 
@@ -159,7 +160,7 @@ to this report.
 
 # Towards Automated Population of Resources
 
-A key recommendation from the workshop is the automation of resource population into TeSS. The group discussed implementing Bioschemas markup on external training repositories (e.g., PARC Learning Materials) to allow automated harvesting by TeSS. This approach would ensure sustainable growth of registered resources and reduce manual effort for course providers.
+A key recommendation from the workshop is the automation of resource population into TeSS. The group discussed implementing Bioschemas markup on external training repositories (e.g., [PARC Learning Materials](https://www.eu-parc.eu/learning-materials)) to allow automated harvesting by TeSS. This approach would ensure sustainable growth of registered resources and reduce manual effort for course providers.
 
 Ontology improvements were also identified as necessary for toxicology-specific training annotation. The proposals to extend the EDAM ontology ([https://edamontology.org/](https://edamontology.org/)) will enrich keyword coverage and enable accurate classification of toxicology educational resources.
 
