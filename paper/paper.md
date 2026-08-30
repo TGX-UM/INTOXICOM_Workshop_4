@@ -40,7 +40,7 @@ authors:
     affiliation: 6
     orcid: 0000-0003-4250-4584
 affiliations:
-  - name: Dept of Translational Genomics, NUTRIM, FHML, Maastricht University, Maastricht, NL
+  - name: Dept of Translational Genomics, NUTRIM, Maastricht University, Maastricht, NL
     index: 1
     ror: 02jz4aj89
   - name: University of Bradford, Bradford, UK
