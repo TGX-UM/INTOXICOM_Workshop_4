@@ -181,9 +181,9 @@ This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023
 
 \newpage
 
-# Appendix A
-
 \blandscape
+
+# Appendix A
 
 Table: Analysis of EDAM for terms for toxicology.
 
