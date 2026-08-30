@@ -46,7 +46,7 @@ affiliations:
   - name: University of Bradford, Bradford, UK
     index: 2
     ror: 00vs8d940
-  - name: Data Team, Health Research Infrastructure, The Netherlands         
+  - name: Data Team, Health Research Infrastructure, NL         
     index: 3
     ror: 02xcmp898
   - name: University of Aveiro, Aveiro, PT
@@ -55,7 +55,7 @@ affiliations:
   - name: University of Birmingham, Birmingham, UK
     index: 6
     ror: 03angcq70
-date: 7 November 2022
+date: 1 September 2026
 cito-bibliography: paper.bib
 event: INTOXICOM
 biohackathon_name: "INTOXICOM Workshops"
@@ -128,9 +128,7 @@ The learning path is designed for participants with a Bachelor’s degree in bio
 
 The NAMs path builds on existing courses and modules, such as those in the University of [Birmingham’s MSc Toxicology](https://www.birmingham.ac.uk/study/postgraduate/subjects/biosciences-courses/toxicology-msc) program and training developed within VHP4Safety, ensuring alignment with established academic and project-based offerings. 
 
-<!-- [content of learning path] -->
-
-<!-- copy in picture from https://docs.google.com/document/d/1AOiJBE54i9A5_Fs2oDgqCyDSsoZD1tDx3BFbsBwyS9s/edit?tab=t.0 >
+![Content of the learning path as designed during the workshop.](images/toxicology_learningPath.png)
 
 <!-- 
 
@@ -167,10 +165,12 @@ Ontology improvements were also identified as necessary for toxicology-specific 
 # Path Initiation and Community Uptake
 
 Besides the NAMs path, the workshop initiated schematic outlines for three additional learning paths: “FAIR AOP development”, “FAIR nanotoxicology data”, and “In silico (chemical and nanomaterial) hazard prediction”. These will be further refined and are intended to be picked up by educators within the ELIXIR Toxicology Community. The workshop established the
-Toxicology Community as a future content provider in TeSS <!-- Marvin: please confirm -->
-to initiate a coordinated curation process and community-driven maintenance of these learning paths.
+Toxicology Community as a future content provider in TeSS
+to initiate a coordinated curation process and community-driven maintenance of these learning paths. Our community now is both [a provider](https://tess.elixir-europe.org/content_providers/elixir-toxicology-community)
+and has [a collection](https://tess.elixir-europe.org/collections/elixir-toxicology-community).
 
 # Conclusions and Future Directions
+
 Workshop 4 successfully built a shared understanding of FAIR training principles and delivered an initial learning path prototype and a set of draft learning paths for the ELIXIR Toxicology Community to adopt. The NAMs learning path prototype is a concrete output of the workshop and serves as an example for further development of toxicology education pathways.
 
 Next steps include finalizing the NAMs path with broader stakeholder review, expanding and linearizing the other three proposed paths, contributing new ontology terms, and initiating automated resource harvesting via Bioschemas. 
