@@ -88,8 +88,8 @@ in the form of ELIXIR Learning Paths.
 
 The workshop aimed to:
 
-* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/)) [@Rioualen2024Synergising]
-* Introduce FAIR training principles, metadata annotation, and Bioschemas [@Gray2017Bioschemas] for automated population of resources
+* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/)) [@discusses:Rioualen2024Synergising]
+* Introduce FAIR training principles, metadata annotation, and Bioschemas [@discusses:Gray2017Bioschemas] for automated population of resources
 * Build shared expertise on developing learning paths, a structured curriculum concept within ELIXIR
 * Co-design toxicology-specific learning paths that address gaps in current training and support modern approaches to chemical and nanomaterial safety assessment
 
@@ -144,7 +144,7 @@ https://docs.google.com/spreadsheets/d/1KOkflK9F_oowiI2ZC8WHSi3uKxcprbcS06CDmBnG
 
 Another outcome of the workshop was the identification of gaps in toxicology-specific ontology terms used for annotating training resources in TeSS. Without these terms, toxicology courses and materials cannot be consistently described or discovered across the ELIXIR ecosystem.
 
-Participants compiled a list of proposed additions or refinements to the EDAM ontology [@Ison2013EDAM], including high-level terms such as Toxicology, and specialized subfields including Medical Toxicology, Ecotoxicology, Forensic Toxicology, and Environmental Toxicology. For each term, draft definitions were prepared, relationships to existing ontology terms were mapped, and links to related ontologies (e.g., OMIT, NCIT) were identified.
+Participants compiled a list of proposed additions or refinements to the EDAM ontology [@citesAsPotentialSolution:Ison2013EDAM], including high-level terms such as Toxicology, and specialized subfields including Medical Toxicology, Ecotoxicology, Forensic Toxicology, and Environmental Toxicology. For each term, draft definitions were prepared, relationships to existing ontology terms were mapped, and links to related ontologies (e.g., OMIT, NCIT) were identified.
 
 This work will be submitted to the EDAM ontology maintainers for inclusion in future releases. Expanding EDAM with toxicology-specific terms will allow:
 
