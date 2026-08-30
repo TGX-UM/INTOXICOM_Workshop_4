@@ -192,24 +192,24 @@ Table: Analysis of EDAM for terms for toxicology.
 | Level 1 | Level 2 | Level 3 | Existing or proposed Definition | Related term name | (EDAM) ID | Comment |
 | ------- | ------- | ------- | ------------------------------- | ----------------- | --------- | ------- |
 | Toxicology |         |         | Toxins and the adverse effects of these chemical substances on living organisms |                   | [EDAM:2840](http://edamontology.org/topic_2840) |         |
-|         | Medical toxicology  |         | The branch of medicine that deals with the diagnosis, management and prevention of poisoning and other adverse health effects caused by medications, occupational and environmental toxins, and biological agents. |                   | [EDAM:3415](http://edamontology.org/topic_3415) |         |
-|         | Ecotoxicology |         |                                 |                   |           |         |
-|         | Forensic toxicology |         |                                 |                   |           |         |
-|         | Environmental toxicology |         |                                 |                   |           |         |
+|         | Medical toxicology  |         | The branch of medicine that deals with the diagnosis, management and prevention of poisoning and other adverse health effects caused by medications, occupational and environmental toxins, and biological agents. |                   | [EDAM:3415](http://edamontology.org/topic_3415) | Note: Synonym to existing EDAM term Clinical toxicology |
+|         | Ecotoxicology |         |                                 |                   | [OMIT_0025989](http://purl.obolibrary.org/obo/OMIT_0025989) | OMIT is microRNA; doesnt provide definition for terms |
+|         | Forensic toxicology |         |                                 |                   | [OMIT_0025472](http://purl.obolibrary.org/obo/OMIT_0025472) |         |
+|         | Environmental toxicology |         |                                 |                   | [NCIT_C17603](http://purl.obolibrary.org/obo/NCIT_C17603) | national cancer institute thesaurus |
 |         | Regulatory toxicology |         |                                 |                   |           |         |
 |         |         | CMR |                                 |                   |           |         |
 |         |         | EDC |                                 |                   |           |         |
 |         |         | Genotox |                                 |                   |           |         |
 |         |         | Developmental tox |                                 |                   |           |         |
 |         |         | Neurotox |                                 |                   |           |         |
-|         | Occupational Health |         |                                 |                   |           |         |
+|         | Occupational Health |         |                                 |                   | [NCIT_C17381](http://purl.obolibrary.org/obo/NCIT_C17381) |         |
 |         | Cellular Toxicology |         |                                 |                   |           |         |
-|         | Molecular Toxicology  |         |                                 |                   |           |         |
+|         | Molecular Toxicology  |         |                                 |                   | [NCIT_C19571](http://purl.obolibrary.org/obo/NCIT_C19571) |         |
 |         | Mechanistic Toxicology |         |                                 |                   |           |         |
-|         | Computational Toxicology |         |                                 |                   |           |         |
-|         |         | Chemoinformatics |                                 |                   |           |         |
+|         | Computational Toxicology |         |                                 |                   |           | Synonym: In Silico Toxicology |
+|         |         | Chemoinformatics | The application of information technology to chemistry in biological research environment. | [EDAM:2258](http://edamontology.org/topic_2258) |           | Wrong definion. It's not limited to biological research environments. |
 |         |         | Nanoinformatics |                                 |                   |           |         |
-|         |         | QSARs |                                 |                   |           |         |
+|         |         | QSARs |                                 |                   |           | [OMIT_0020804](http://purl.obolibrary.org/obo/OMIT_0020804) |
 |         |         | PBPK modelling |                                 |                   |           |         |
 |         |         | Exposure modelling |                                 |                   |           |         |
 |         |         | dose-response modelling |                                 |                   |           |         |
@@ -222,7 +222,7 @@ Table: Analysis of EDAM for terms for toxicology.
 |         | Pharmaceuticals |         |                                 |                   |           |         |
 |         | MESH ontology of stressors |         |                                 |                   |           |         |
 | Testing approach |         |         |                                 |                   |           |         |
-|         | In Vivo |         |                                 |                   |           |         |
+|         | In Vivo |         | An assay in which the effect of a targeted process (the intervention) on an organism is tested. | in vivo intervention experiment | [OBI_0001980](http://purl.obolibrary.org/obo/OBI_0001980) |         |
 |         |         | organ toxicity |                                 |                   |           |         |
 |         |         | system toxicity |                                 |                   |           |         |
 |         |         | organism effect |                                 |                   |           |         |
@@ -233,11 +233,11 @@ Table: Analysis of EDAM for terms for toxicology.
 |         |         | Cellular response |                                 |                   |           |         |
 |         | In silico |         |                                 |                   |           |         |
 | Domain of  Interest |         |         |                                 |                   |           |         |
-|         | Policy and regulation |         |                                 | Regulatory affairs | [EDAM:3394](http://edamontology.org/topic_3394) |         |
+|         | Policy and regulation |         | The protection of public health by controlling the safety and efficacy of products in areas including pharmaceuticals, veterinary medicine, medical devices, pesticides, agrochemicals, cosmetics, and complementary medicines. | Regulatory affairs | [EDAM:3394](http://edamontology.org/topic_3394) |         |
 |         | Exposure assessment |         |                                 |                   |           |         |
 |         | Hazard and risk |         |                                 |                   |           |         |
-|         | FAIR data and data management |         |                                 | FAIR data | [EDAM:4012](http://edamontology.org/topic_4012) |         |
-|         |         |         |                                 | Data Management | [EDAM:3071](http://edamontology.org/topic_3071) |         |
+|         | FAIR data and data management |         | FAIR data is scientific data that meets the principles of being findable, accessible, interoperable, and reusable. A substantially overlapping term is 'open data', i.e. publicly available data that is free to use, distribute, and create derivative work from, without restrictions. Open data does not automatically have to be FAIR (e.g. findable or interoperable), while FAIR data does in some cases not have to be publicly available without restrictions (especially sensitive, protected data, topic_4044). | FAIR data | [EDAM:4012](http://edamontology.org/topic_4012) |         |
+|         |         |         | Data management comprises the practices and principles of taking care of data, other than analysing them. This includes for example taking care of the associated metadata, data formats, storage, preservation/archiving, access, and legal aspects related to using and sharing data. The purpose of data management is keeping data consistent, easy to access and use, while ensuring a required level of data protection. Good data management improves the visibility, impact, and lifetime of data. | Data Management | [EDAM:3071](http://edamontology.org/topic_3071) |         |
 |         | Safe and Sustainable by Design |         |                                 |                   |           |         |
 |         | Statistics |         |                                 | Statistics & Probability | [EDAM:2269](http://edamontology.org/topic_2269) |         |
 |         | NAM |         |                                 |                   |           |         |
@@ -257,7 +257,7 @@ Table: Analysis of EDAM for terms for toxicology.
 | Type of material |         | Format of documents including word processor, spreadsheet and presentation. |                                 |                   |           |         |
 |         | Course |         | A training course available for use on the Web. |                   |           |         |
 |         | E-learning tool |         |                                 | Document format | [EDAM:3507](http://edamontology.org/format_3507) |         |
-|         | Presentation / slides |         |                                 | Online course | [EDAM:3670](http://edamontology.org/data_3670 |         |
+|         | Presentation / slides |         |                                 | Online course | [EDAM:3670](http://edamontology.org/data_3670) |         |
 |         | Reading materials |         |                                 |                   |           |         |
 |         | Video |         |                                 |                   |           |         |
 |         | Webinar recording |         |                                 |                   |           |         |
