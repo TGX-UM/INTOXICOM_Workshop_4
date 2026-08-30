@@ -12,7 +12,7 @@ authors:
     orcid: 0000-0003-2230-0840
   - name: Sara&nbsp;Morsy
     affiliation: 2
-    orcid: 
+    orcid: 0000-0002-2477-1139
   - name: Meike&nbsp;Bünger
     affiliation: 3
     orcid: 0009-0002-7664-0058
@@ -121,7 +121,7 @@ All four learning paths—New Approach Methodologies (NAMs), FAIR AOP Developmen
 
 # NAMs Learning Path: First Prototype
 
-The workshop developed a detailed draft of the NAMs learning path as a pilot for structured toxicology curricula within ELIXIR TeSS. This prototype outlines a modular program introducing XXXX <!-- [add module/block groups] -->
+The workshop developed a detailed draft of the NAMs learning path as a pilot for structured toxicology curricula within ELIXIR TeSS. This prototype outlines a modular program introducing XXXX <!-- TODO [add module/block groups] -->
 for using and integrating NAM data in risk assessment frameworks.
 
 The learning path is designed for participants with a Bachelor’s degree in biology, chemistry, pharmacy, biochemistry, molecular biosciences, medical biology, or veterinary medicine, and ideally a Master’s degree in one of these disciplines or in toxicology. It particularly targets early-stage researchers (e.g., beginning a PhD project) who need to quickly acquire a mechanistic understanding of modern, animal-free safety assessment approaches.
