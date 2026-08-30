@@ -67,6 +67,13 @@ git_url: https://github.dev/TGX-UM/INTOXICOM_Workshop_4
 # This is the short authors description that is used at the
 # bottom of the generated paper (typically the first two authors):
 authors_short: Martens \emph{et al.}
+header-includes:
+- |
+  ```{=latex}
+  \usepackage{pdflscape}
+  \newcommand{\blandscape}{\begin{landscape}}
+  \newcommand{\elandscape}{\end{landscape}}
+    ```
 ---
 
 
