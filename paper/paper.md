@@ -203,29 +203,50 @@ Table: Analysis of EDAM for terms for toxicology.
 |         |         | Developmental tox |                                 |                   |           |         |
 |         |         | Neurotox |                                 |                   |           |         |
 |         | Occupational Health |         |                                 |                   |           |         |
+|         | Cellular Toxicology |         |                                 |                   |           |         |
+|         | Molecular Toxicology  |         |                                 |                   |           |         |
+|         | Mechanistic Toxicology |         |                                 |                   |           |         |
+|         | Computational Toxicology |         |                                 |                   |           |         |
+|         |         | Chemoinformatics |                                 |                   |           |         |
+|         |         | Nanoinformatics |                                 |                   |           |         |
+|         |         | QSARs |                                 |                   |           |         |
+|         |         | PBPK modelling |                                 |                   |           |         |
+|         |         | Exposure modelling |                                 |                   |           |         |
+|         |         | dose-response modelling |                                 |                   |           |         |
+|         |         | QVIVE modelling |                                 |                   |           |         |
+| Stressor |         |         |                                 |                   |           | What about alternative grouping terms such as contaminants of emerging concern (CECs), persistent organic pollutants (POPs), etc? |
+|         | EDC |         |                                 |                   |           |         |
+|         | Nanomaterials |         |                                 |                   |           |         |
+|         | Micro & Nanoplastics |         |                                 |                   |           |         |
+|         | Pesticides |         |                                 |                   |           |         |
+|         | Pharmaceuticals |         |                                 |                   |           |         |
+|         | MESH ontology of stressors |         |                                 |                   |           |         |
+| Testing approach |         |         |                                 |                   |           |         |
+|         | In Vivo |         |                                 |                   |           |         |
+|         |         | organ toxicity |                                 |                   |           |         |
+|         |         | system toxicity |                                 |                   |           |         |
+|         |         | organism effect |                                 |                   |           |         |
+|         |         | population effect |                                 |                   |           |         |
+|         |         | ecosystem effect |                                 |                   |           |         |
+|         | In vitro |         |                                 |                   |           |         |
+|         |         | Molecular event |                                 |                   |           |         |
+|         |         | Cellular response |                                 |                   |           |         |
+|         | In silico |         |                                 |                   |           |         |
+| Domain of  Interest |         |         |                                 |                   |           |         |
+|         | Policy and regulation |         |                                 |                   |           |         |
+|         | Exposure assessment |         |                                 |                   |           |         |
+|         | Hazard and risk |         |                                 |                   |           |         |
+|         | FAIR data and data management |         |                                 |                   |           |         |
 |         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
+|         | Safe and Sustainable by Design |         |                                 |                   |           |         |
+|         | Statistics |         |                                 |                   |           |         |
+|         | NAM |         |                                 |                   |           |         |
+| Scope |         |         |                                 |                   |           |         |
+|         | Advanced (nano)materials |         |                                 |                   |           |         |
+|         | Biotechnology |         |                                 |                   |           |         |
+|         | Chemicals |         |                                 |                   |           |         |
+|         | Chemical mixtures |         |                                 |                   |           |         |
+|         | Pesticides |         |                                 |                   |           |         |
 |         |         |         |                                 |                   |           |         |
 |         |         |         |                                 |                   |           |         |
 |         |         |         |                                 |                   |           |         |
