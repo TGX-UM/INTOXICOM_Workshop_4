@@ -75,6 +75,7 @@ header-includes:
   \usepackage{pdflscape}
   \newcommand{\blandscape}{\begin{landscape}}
   \newcommand{\elandscape}{\end{landscape}}
+  \hyphenation{chemo-infor-ma-tics}
     ```
 ---
 
@@ -207,7 +208,7 @@ Table: Analysis of EDAM for terms for toxicology.
 |         | Molecular Toxicology  |         |                                 |                   | [NCIT_C19571](http://purl.obolibrary.org/obo/NCIT_C19571) |
 |         | Mechanistic Toxicology |         |                                 |                   |           |
 |         | Computational Toxicology [^4] |         |                                 |                   |           |
-|         |         | Chemoinformatics | The application of information technology to chemistry in biological research environment. [^5] | [EDAM:2258](http://edamontology.org/topic_2258) |           |
+|         |         | Chemoinformatics | The application of information technology to chemistry in biological research environment. [^5] |           | [EDAM:2258](http://edamontology.org/topic_2258) |
 |         |         | Nanoinformatics |                                 |                   |           |
 |         |         | QSARs |                                 |                   | [OMIT_0020804](http://purl.obolibrary.org/obo/OMIT_0020804) |
 |         |         | PBPK modelling |                                 |                   |           |
