@@ -183,9 +183,9 @@ This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023
 
 # Appendix A
 
-Table: Analysis of EDAM for terms for toxicology.
-
 \blandscape
+
+Table: Analysis of EDAM for terms for toxicology.
 
 | Level 1 | Level 2 | Level 3 | Existing or proposed Definition | Related term name | (EDAM) ID | Comment |
 | ------- | ------- | ------- | ------------------------------- | ----------------- | --------- | ------- |
