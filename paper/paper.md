@@ -10,7 +10,6 @@ authors:
   - name: Marvin&nbsp;Martens
     affiliation: 1
     orcid: 0000-0003-2230-0840
-    role: Conceptualization, Writing – review & editing
   - name: Sara&nbsp;Morsy
     affiliation: 2
     orcid: 0000-0002-2477-1139
@@ -37,7 +36,6 @@ authors:
   - name: Egon&nbsp;Willighagen
     affiliation: 1
     orcid: 0000-0001-7542-0286
-    role: Writing – review & editing
   - name: Iseult&nbsp;Lynch
     affiliation: 6
     orcid: 0000-0003-4250-4584
