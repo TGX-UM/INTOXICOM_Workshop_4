@@ -79,7 +79,7 @@ at the University of Birmingham, UK. An introductory webinar on 6 June 2025 prep
 introducing workshop objectives and gathering initial educational resources.
 
 This workshop is part of INTOXICOM’s effort to make toxicology educational resources FAIR (Findable,
-Accessible, Interoperable, and Reusable) [@FAIR] and to establish a sustainable training ecosystem
+Accessible, Interoperable, and Reusable) [@citesAsRecommendedReading:FAIR] and to establish a sustainable training ecosystem
 within the ELIXIR infrastructure. The meeting brought together toxicology and bioinformatics trainers,
 educators, curriculum developers, and FAIR training experts to collaboratively design structured curricula
 in the form of ELIXIR Learning Paths.
