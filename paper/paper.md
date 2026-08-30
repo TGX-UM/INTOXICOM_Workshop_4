@@ -130,16 +130,6 @@ The NAMs path builds on existing courses and modules, such as those in the Unive
 
 ![Content of the learning path as designed during the workshop.](images/toxicology_learningPath.png)
 
-<!-- 
-
-https://docs.google.com/presentation/d/1LNCn9oKnSfK3oeh7_1h3xKWyfrrMswRRJ-4v-tXy_r4/edit?usp=sharing slide 8
-
-[add table of spreadsheet where courses/materials are linked to each of the boxes]
-
-https://docs.google.com/spreadsheets/d/1KOkflK9F_oowiI2ZC8WHSi3uKxcprbcS06CDmBnGfXM/edit?usp=sharing 
-
--->
-
 # Ontology Development for FAIR Training Metadata
 
 Another outcome of the workshop was the identification of gaps in toxicology-specific ontology terms used for annotating training resources in TeSS. Without these terms, toxicology courses and materials cannot be consistently described or discovered across the ELIXIR ecosystem.
@@ -153,8 +143,7 @@ This work will be submitted to the EDAM ontology maintainers for inclusion in fu
 * Better integration with FAIR data and tool registries (e.g., bio.tools, FAIRsharing), enabling cross-linking of courses, datasets, and software relevant to toxicology
 
 The compiled list of terms, definitions, and ontology links is included as
-an Appendix <!-- TODO -->
-to this report.
+an Appendix A to this report.
 
 # Towards Automated Population of Resources
 
@@ -180,3 +169,60 @@ Next steps include finalizing the NAMs path with broader stakeholder review, exp
 This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023-INTOXICOM).
 
 ## References
+
+
+# Appendix A
+
+Table: Analysis of EDAM for terms for toxicology.
+
+| Level 1 | Level 2 | Level 3 | Existing or proposed Definition | Related term name | (EDAM) ID | Comment |
+| ------- | ------- | ------- | ------------------------------- | ----------------- | --------- | ------- |
+| Toxicology |         |         | Toxins and the adverse effects of these chemical substances on living organisms |                   | [EDAM:2840](http://edamontology.org/topic_2840) |         |
+|         | Medical toxicology  |         | The branch of medicine that deals with the diagnosis, management and prevention of poisoning and other adverse health effects caused by medications, occupational and environmental toxins, and biological agents. |                   | [EDAM:3415](http://edamontology.org/topic_3415) |         |
+|         | Ecotoxicology |         |                                 |                   |           |         |
+|         | Forensic toxicology |         |                                 |                   |           |         |
+|         | Environmental toxicology |         |                                 |                   |           |         |
+|         | Regulatory toxicology |         |                                 |                   |           |         |
+|         |         | CMR |                                 |                   |           |         |
+|         |         | EDC |                                 |                   |           |         |
+|         |         | Genotox |                                 |                   |           |         |
+|         |         | Developmental tox |                                 |                   |           |         |
+|         |         | Neurotox |                                 |                   |           |         |
+|         | Occupational Health |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
+|         |         |         |                                 |                   |           |         |
