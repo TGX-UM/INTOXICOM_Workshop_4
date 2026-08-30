@@ -233,33 +233,37 @@ Table: Analysis of EDAM for terms for toxicology.
 |         |         | Cellular response |                                 |                   |           |         |
 |         | In silico |         |                                 |                   |           |         |
 | Domain of  Interest |         |         |                                 |                   |           |         |
-|         | Policy and regulation |         |                                 |                   |           |         |
+|         | Policy and regulation |         |                                 | Regulatory affairs | [EDAM:3394](http://edamontology.org/topic_3394) |         |
 |         | Exposure assessment |         |                                 |                   |           |         |
 |         | Hazard and risk |         |                                 |                   |           |         |
-|         | FAIR data and data management |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
+|         | FAIR data and data management |         |                                 | FAIR data | [EDAM:4012](http://edamontology.org/topic_4012) |         |
+|         |         |         |                                 | Data Management | [EDAM:3071](http://edamontology.org/topic_3071) |         |
 |         | Safe and Sustainable by Design |         |                                 |                   |           |         |
-|         | Statistics |         |                                 |                   |           |         |
+|         | Statistics |         |                                 | Statistics & Probability | [EDAM:2269](http://edamontology.org/topic_2269) |         |
 |         | NAM |         |                                 |                   |           |         |
 | Scope |         |         |                                 |                   |           |         |
 |         | Advanced (nano)materials |         |                                 |                   |           |         |
-|         | Biotechnology |         |                                 |                   |           |         |
+|         | Biotechnology |         |                                 |                   | EDAM:3297 |         |
 |         | Chemicals |         |                                 |                   |           |         |
 |         | Chemical mixtures |         |                                 |                   |           |         |
 |         | Pesticides |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
-|         |         |         |                                 |                   |           |         |
+| Target stakeholder |         |         |                                 |                   |           |         |
+|         | Academia (PhD and MSc student, professor, researcher) |         |                                 |                   |           |         |
+|         | Consultants |         |                                 |                   |           |         |
+|         | Education (schools and undergraduates) |         |                                 |                   |           |         |
+|         | Industry |         |                                 |                   |           |         |
+|         | NGOs |         |                                 |                   |           |         |
+|         | Regulator, policy maker, risk assessor |         |                                 |                   |           |         |
+| Type of material |         | Format of documents including word processor, spreadsheet and presentation. |                                 |                   |           |         |
+|         | Course |         | A training course available for use on the Web. |                   |           |         |
+|         | E-learning tool |         |                                 | Document format | [EDAM:3507](http://edamontology.org/format_3507) |         |
+|         | Presentation / slides |         |                                 | Online course | [EDAM:3670](http://edamontology.org/data_3670 |         |
+|         | Reading materials |         |                                 |                   |           |         |
+|         | Video |         |                                 |                   |           |         |
+|         | Webinar recording |         |                                 |                   |           |         |
+| Level of expertise |         |         |                                 |                   |           |         |
+|         | Beginner |         |                                 |                   |           |         |
+|         | Intermediate |         |                                 |                   |           |         |
+|         | Advanced |         |                                 |                   |           |         |
 
 \elandscape
