@@ -177,6 +177,8 @@ This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023
 
 ## References
 
+<div id="refs"></div>
+
 \newpage
 
 # Appendix A
