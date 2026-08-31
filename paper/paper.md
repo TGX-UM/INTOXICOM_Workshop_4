@@ -105,6 +105,25 @@ The workshop aimed to:
 Hands-on sessions provided participants with practical experience design, develop, 
 populate learning paths, and about governance and sustainability within TeSS.
 
+# Presentations
+
+Invited speakers and organisers gave a series of talks framing the workshop, covering the
+ELIXIR training services and the Learning Paths framework, the regulatory and legal context
+that toxicology training has to serve, and existing collections of training material.
+Robert Lee and Susana Loureiro joined online.
+
+Table: Presentations delivered at the workshop.
+
+| Speaker | Talk Title |
+| --- | -------- |
+| Egon Willighagen | Introduction to ELIXIR and the ELIXIR Toxicology Community |
+| Alexia Cardona | Introduction to ELIXIR Training Services |
+| Alexia Cardona | Introduction to the ELIXIR Learning Paths Framework |
+| Robert Lee | Legal oversight and regulatory toxicology |
+| Susana Loureiro | Example of the PARC registry: mapping existing training materials |
+| Martin Himly | From material compilations of content providers to toxicology curricula: requirements for building knowledge |
+| Sara Morsy | The FAIR training life cycle |
+
 # Understanding Learning Paths
 
 Participants gained a shared understanding of ELIXIR Learning Paths, which guide learners through a sequence of training materials from foundational to advanced levels ([https://tess.elixir-europe.org/about/learning_paths](https://tess.elixir-europe.org/about/learning_paths)). Through guided exercises, attendees explored how to structure toxicology curricula, link resources, and annotate them with standardized metadata.
