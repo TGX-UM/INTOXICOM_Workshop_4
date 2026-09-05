@@ -179,9 +179,9 @@ This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023
 
 ## References
 
-<div id="refs"></div>
-
-\newpage
+```{=latex}
+\AtEndDocument{%
+```
 
 \blandscape
 
@@ -274,3 +274,7 @@ Table: Analysis of EDAM for terms for toxicology.
 [^6]: What about alternative grouping terms such as contaminants of emerging concern (CECs), persistent organic pollutants (POPs), etc?
 
 \elandscape
+
+```{=latex}
+}
+```
