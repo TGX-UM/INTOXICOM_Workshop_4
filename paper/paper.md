@@ -14,26 +14,34 @@ authors:
   - name: Sara&nbsp;Morsy
     affiliation: 2
     orcid: 0000-0002-2477-1139
+    role: Writing – review & editing
   - name: Meike&nbsp;Bünger
     affiliation: 3
     orcid: 0009-0002-7664-0058
+    role: Writing – review & editing
   - name: Scott&nbsp;Glaberman
     affiliation: 6
     orcid: 0000-0003-0594-4732
+    role: Writing – review & editing
   - name: Bob&nbsp;Lee
     affiliation: 6
+    role: Writing – review & editing
   - name: Susana&nbsp;Loureiro
     affiliation: 5
     orcid: 0000-0002-5393-9623
+    role: Writing – review & editing
   - name: Gavin&nbsp;Lloyd
     affiliation: 6
     orcid: 0000-0001-7989-6695
+    role: Writing – review & editing
   - name: Ralf&nbsp;Weber
     affiliation: 6
     orcid: 0000-0002-8796-4771
+    role: Writing – review & editing
   - name: Tim&nbsp;Williams
     affiliation: 6
     orcid: 0000-0002-5857-3851
+    role: Writing – review & editing
   - name: Egon&nbsp;Willighagen
     affiliation: 1
     orcid: 0000-0001-7542-0286
@@ -41,6 +49,7 @@ authors:
   - name: Iseult&nbsp;Lynch
     affiliation: 6
     orcid: 0000-0003-4250-4584
+    role: Writing – review & editing
 affiliations:
   - name: Dept of Translational Genomics, NUTRIM, Maastricht University, Maastricht, NL
     index: 1
@@ -149,7 +158,7 @@ All four learning paths—New Approach Methodologies (NAMs), FAIR AOP Developmen
 
 # NAMs Learning Path: First Prototype
 
-The workshop developed a detailed draft of the NAMs learning path as a pilot for structured toxicology curricula within ELIXIR TeSS. This prototype outlines a modular program introducing XXXX <!-- TODO [add module/block groups] -->
+The workshop developed a detailed draft of the NAMs learning path as a pilot for structured toxicology curricula within ELIXIR TeSS. This prototype outlines a modular program introducing a learning path
 for using and integrating NAM data in risk assessment frameworks.
 
 The learning path is designed for participants with a Bachelor’s degree in biology, chemistry, pharmacy, biochemistry, molecular biosciences, medical biology, or veterinary medicine, and ideally a Master’s degree in one of these disciplines or in toxicology. It particularly targets early-stage researchers (e.g., beginning a PhD project) who need to quickly acquire a mechanistic understanding of modern, animal-free safety assessment approaches.
