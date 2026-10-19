@@ -1,6 +1,6 @@
 ---
 title: 'INTOXICOM Workshop 4: Building FAIR Learning Paths for Toxicology Education'
-title_short: 'INTOXIOM #4: building learning paths'
+title_short: 'INTOXICOM #4: building learning paths'
 tags:
   - toxicology
   - ELIXIR TeSS
@@ -22,6 +22,10 @@ authors:
   - name: Scott&nbsp;Glaberman
     affiliation: 5
     orcid: 0000-0003-0594-4732
+    role: Writing – review & editing
+  - name: Martin&nbsp;Himly
+    affiliation: 6
+    orcid: 0000-0001-5416-085X
     role: Writing – review & editing
   - name: Robert&nbsp;Lee
     affiliation: 5
@@ -67,6 +71,9 @@ affiliations:
   - name: University of Birmingham, Birmingham, UK
     index: 5
     ror: 03angcq70
+  - name: Paris Lodron University of Salzburg, Salzburg, AT
+    index: 6
+    ror: 05gs8cd61
 date: 1 September 2026
 cito-bibliography: paper.bib
 event: INTOXICOM
