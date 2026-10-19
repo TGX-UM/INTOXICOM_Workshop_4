@@ -20,26 +20,27 @@ authors:
     orcid: 0009-0002-7664-0058
     role: Writing – review & editing
   - name: Scott&nbsp;Glaberman
-    affiliation: 6
+    affiliation: 5
     orcid: 0000-0003-0594-4732
     role: Writing – review & editing
-  - name: Bob&nbsp;Lee
-    affiliation: 6
+  - name: Robert&nbsp;Lee
+    affiliation: 5
+    orcid: 0000-0002-3214-9577
     role: Writing – review & editing
   - name: Susana&nbsp;Loureiro
-    affiliation: 5
+    affiliation: 4
     orcid: 0000-0002-5393-9623
     role: Writing – review & editing
   - name: Gavin&nbsp;Lloyd
-    affiliation: 6
+    affiliation: 5
     orcid: 0000-0001-7989-6695
     role: Writing – review & editing
   - name: Ralf&nbsp;Weber
-    affiliation: 6
+    affiliation: 5
     orcid: 0000-0002-8796-4771
     role: Writing – review & editing
   - name: Tim&nbsp;Williams
-    affiliation: 6
+    affiliation: 5
     orcid: 0000-0002-5857-3851
     role: Writing – review & editing
   - name: Egon&nbsp;Willighagen
@@ -47,7 +48,7 @@ authors:
     orcid: 0000-0001-7542-0286
     role: Writing – review & editing
   - name: Iseult&nbsp;Lynch
-    affiliation: 6
+    affiliation: 5
     orcid: 0000-0003-4250-4584
     role: Writing – review & editing
 affiliations:
@@ -61,10 +62,10 @@ affiliations:
     index: 3
     ror: 02xcmp898
   - name: University of Aveiro, Aveiro, PT
-    index: 5
+    index: 4
     ror: 00nt41z93
   - name: University of Birmingham, Birmingham, UK
-    index: 6
+    index: 5
     ror: 03angcq70
 date: 1 September 2026
 cito-bibliography: paper.bib
@@ -111,8 +112,8 @@ The workshop aimed to:
 * Build shared expertise on developing learning paths, a structured curriculum concept within ELIXIR
 * Co-design toxicology-specific learning paths that address gaps in current training and support modern approaches to chemical and nanomaterial safety assessment
 
-Hands-on sessions provided participants with practical experience design, develop, 
-populate learning paths, and about governance and sustainability within TeSS.
+Hands-on sessions gave participants practical experience in designing, developing, and
+populating learning paths, and covered their governance and sustainability within TeSS.
 
 # Presentations
 
@@ -211,14 +212,24 @@ This workshop was funded by the ELIXIR Europe INTOXICOM grant (Grant No. NL-2023
 \AtEndDocument{%
 ```
 
-\blandscape
-
 # Appendix A
+
+```{=latex}
+\begingroup
+\tiny
+\let\footnotesize\tiny
+\setlength{\footnotesep}{4pt}
+\setlength{\tabcolsep}{3pt}
+\renewcommand{\arraystretch}{0.85}
+\setlength{\LTpre}{0pt}
+\setlength{\LTleft}{-40mm}
+\setlength{\linewidth}{\dimexpr\linewidth+40mm\relax}
+```
 
 Table: Analysis of EDAM for terms for toxicology.
 
 | Level 1 | Level 2 | Level 3 | Existing or proposed Definition | Related term name | (EDAM) ID |
-| ------- | ------- | ------- | ------------------------------- | ----------------- | --------- |
+| ---------- | ------------------ | -------------- | ------------------------------------ | ------------ | ---------- |
 | Toxicology |         |         | Toxins and the adverse effects of these chemical substances on living organisms |                   | [EDAM:2840](http://edamontology.org/topic_2840) |
 |         | Medical toxicology [^1]  |         | The branch of medicine that deals with the diagnosis, management and prevention of poisoning and other adverse health effects caused by medications, occupational and environmental toxins, and biological agents. |                   | [EDAM:3415](http://edamontology.org/topic_3415) |
 |         | Ecotoxicology |         |                                 |                   | [OMIT_0025989](http://purl.obolibrary.org/obo/OMIT_0025989) [^2] |
@@ -271,7 +282,7 @@ Table: Analysis of EDAM for terms for toxicology.
 |         | NAM |         |                                 |                   |           |
 | Scope |         |         |                                 |                   |           |
 |         | Advanced (nano)materials |         |                                 |                   |           |
-|         | Biotechnology |         |                                 |                   | EDAM:3297 |
+|         | Biotechnology |         |                                 |                   | [EDAM:3297](http://edamontology.org/topic_3297) |
 |         | Chemicals |         |                                 |                   |           |
 |         | Chemical mixtures |         |                                 |                   |           |
 |         | Pesticides |         |                                 |                   |           |
@@ -295,13 +306,15 @@ Table: Analysis of EDAM for terms for toxicology.
 |         | Advanced |         |                                 |                   |           |
 
 [^1]: Note: Synonym to existing EDAM term Clinical toxicology
-[^2]: OMIT is microRNA; doesnt provide definition for terms
+[^2]: OMIT is microRNA; doesn't provide definition for terms
 [^3]: National Cancer Institute Thesaurus
 [^4]: Synonym: In Silico Toxicology
-[^5]: Wrong definion. It's not limited to biological research environments.
+[^5]: Wrong definition. It's not limited to biological research environments.
 [^6]: What about alternative grouping terms such as contaminants of emerging concern (CECs), persistent organic pollutants (POPs), etc?
 
-\elandscape
+```{=latex}
+\endgroup
+```
 
 ```{=latex}
 }
