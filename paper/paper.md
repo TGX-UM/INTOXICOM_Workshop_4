@@ -19,6 +19,10 @@ authors:
     affiliation: 3
     orcid: 0009-0002-7664-0058
     role: Writing – review & editing
+  - name: Alexia&nbsp;Cardona
+    affiliation: 7
+    orcid: 0000-0002-7877-5565
+    role: Writing – review & editing
   - name: Scott&nbsp;Glaberman
     affiliation: 5
     orcid: 0000-0003-0594-4732
@@ -74,6 +78,9 @@ affiliations:
   - name: Paris Lodron University of Salzburg, Salzburg, AT
     index: 6
     ror: 05gs8cd61
+  - name: University of Cambridge, Cambridge, UK
+    index: 7
+    ror: 013meh722
 date: 1 September 2026
 cito-bibliography: paper.bib
 event: INTOXICOM
