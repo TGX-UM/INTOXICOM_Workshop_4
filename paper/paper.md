@@ -20,7 +20,7 @@ authors:
     orcid: 0009-0002-7664-0058
     role: Writing – review & editing
   - name: Alexia&nbsp;Cardona
-    affiliation: 7
+    affiliation: 4
     orcid: 0000-0002-7877-5565
     role: Writing – review & editing
   - name: Scott&nbsp;Glaberman
@@ -36,7 +36,7 @@ authors:
     orcid: 0000-0002-3214-9577
     role: Writing – review & editing
   - name: Susana&nbsp;Loureiro
-    affiliation: 4
+    affiliation: 7
     orcid: 0000-0002-5393-9623
     role: Writing – review & editing
   - name: Gavin&nbsp;Lloyd
@@ -69,18 +69,18 @@ affiliations:
   - name: Data Team, Health Research Infrastructure, NL         
     index: 3
     ror: 02xcmp898
-  - name: University of Aveiro, Aveiro, PT
+  - name: University of Cambridge, Cambridge, UK
     index: 4
-    ror: 00nt41z93
+    ror: 013meh722
   - name: University of Birmingham, Birmingham, UK
     index: 5
     ror: 03angcq70
   - name: Paris Lodron University of Salzburg, Salzburg, AT
     index: 6
     ror: 05gs8cd61
-  - name: University of Cambridge, Cambridge, UK
+  - name: University of Aveiro, Aveiro, PT
     index: 7
-    ror: 013meh722
+    ror: 00nt41z93
 date: 1 September 2026
 cito-bibliography: paper.bib
 event: INTOXICOM
