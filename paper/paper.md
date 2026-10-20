@@ -69,7 +69,7 @@ affiliations:
   - name: Data Team, Health Research Infrastructure, NL         
     index: 3
     ror: 02xcmp898
-  - name: University of Cambridge, Cambridge, UK
+  - name: Professional and Continuing Education, University of Cambridge, Cambridge, UK
     index: 4
     ror: 013meh722
   - name: University of Birmingham, Birmingham, UK
@@ -115,13 +115,13 @@ This workshop is part of INTOXICOM’s effort to make toxicology educational res
 Accessible, Interoperable, and Reusable) [@citesAsRecommendedReading:FAIR] and to establish a sustainable training ecosystem
 within the ELIXIR infrastructure. The meeting brought together toxicology and bioinformatics trainers,
 educators, curriculum developers, and FAIR training experts to collaboratively design structured curricula
-in the form of ELIXIR Learning Paths [@usesMethodIn:VanGeest2023].
+in the form of ELIXIR Learning Paths [@usesMethodIn:Cardona2022LearningPaths].
 
 # Workshop Objectives and Approach
 
 The workshop aimed to:
 
-* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/)) [@discusses:Rioualen2024Synergising]
+* Increase discoverability of toxicology training materials by registering them in ELIXIR Training e-Support Service (TeSS, [https://tess.elixir-europe.org/](https://tess.elixir-europe.org/)) [@discusses:Beard2020TeSS]
 * Introduce FAIR training principles, metadata annotation, and Bioschemas [@discusses:Gray2017Bioschemas] for automated population of resources
 * Build shared expertise on developing learning paths, a structured curriculum concept within ELIXIR
 * Co-design toxicology-specific learning paths that address gaps in current training and support modern approaches to chemical and nanomaterial safety assessment
@@ -150,7 +150,7 @@ Table: Presentations delivered at the workshop.
 
 # Understanding Learning Paths
 
-Participants gained a shared understanding of ELIXIR Learning Paths, which guide learners through a sequence of training materials from foundational to advanced levels ([https://tess.elixir-europe.org/about/learning_paths](https://tess.elixir-europe.org/about/learning_paths)). Through guided exercises, attendees explored how to structure toxicology curricula, link resources, and annotate them with standardized metadata.
+Participants gained a shared understanding of ELIXIR Learning Paths, which guide learners through a sequence of training materials from foundational to advanced levels ([https://training-splash.org/learning-paths](https://training-splash.org/learning-paths)). Through guided exercises, attendees explored how to structure toxicology curricula, link resources, and annotate them with standardized metadata.
 
 Discussions highlighted key requirements for FAIR toxicology training, including improved ontology coverage, mechanisms for maintaining up-to-date curricula, and strategies for automated population of TeSS resources using Bioschemas ([https://bioschemas.org/](https://bioschemas.org/)).
 
